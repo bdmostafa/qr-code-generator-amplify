@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-qrcode-staging-******-authRole",
+      "UnauthRoleArn": "arn:aws:iam::**********:role/amplify-qrcode-staging-*********",
+      "AuthRoleArn": "arn:aws:iam::***********:role/amplify-qrcode-staging-********",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-qrcode-staging-*********",
+      "UnauthRoleName": "amplify-qrcode-staging-**********",
+      "StackName": "amplify-qrcode-staging-******",
+      "StackId": "arn:aws:cloudformation:us-east-1:*******************",
+      "AmplifyAppId": "*************"
+    },
+    "categories": {
+      "auth": {
+        "qrcode": {}
+      }
+    }
+  }
+}
