@@ -4,7 +4,7 @@ import {
 } from './ui-components';
 import { QRCodeSVG } from 'qrcode.react';
 import { useState } from 'react';
-import { Alert, Heading, Loader, Button, Text } from '@aws-amplify/ui-react';
+import { Alert, Heading, Loader, Button, Text, Link } from '@aws-amplify/ui-react';
 import { useEffect } from 'react';
 import { useRef } from 'react';
 
@@ -114,6 +114,19 @@ function App() {
             </>
         }
       </div>
+      <div style={{ textAlign: 'center', margin: '20px' }}>
+        <span style={{ marginRight: '5px' }}>
+          Developed by</span>
+        <Link
+          href="https://mdmostafa.com/"
+          color="#007EB9"
+        >
+          Mostafa
+        </Link>
+
+
+      </div>
+
     </div>
 
 
