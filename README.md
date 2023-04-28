@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img width="500" alt="QR Code Generator" src="https://user-images.githubusercontent.com/62140337/235134542-6b4370d1-fd91-470a-a171-bd8f0b930c3a.png">
+
+
 ## Available Scripts
 
 In the project directory, you can run:
